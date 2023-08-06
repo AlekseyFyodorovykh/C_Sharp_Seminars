@@ -11,7 +11,7 @@ if (number_2 * number_2 == number_1)
 }
 else
 {
-Console.WriteLine($"Число {number_1} - не квадрат числа {number_2}");
+     Console.WriteLine($"Число {number_1} - не квадрат числа {number_2}");
 }
 
 
