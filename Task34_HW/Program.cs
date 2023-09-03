@@ -35,7 +35,7 @@ int EvenElem(int[] arr)
  return count;
 }
 
-int[] array = CreateArrayRndInt(8, 100, 1000);
+int[] array = CreateArrayRndInt(8, 100, 999);
 PrintArray(array);
 Console.WriteLine();
 int elemEven = EvenElem(array);
